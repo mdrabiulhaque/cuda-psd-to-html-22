@@ -1,0 +1,275 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.one {
+
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #87509C;
+
+    background-color: #87509C;
+
+}
+
+.nav {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #87509C;
+    display: flex;
+    background-color: #87509C;
+    margin: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.nav-1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #87509C;
+    display: flex;
+    width: 50%;
+
+
+}
+
+.nav-1 img {
+    height: 35px;
+    width: 20%;
+}
+
+.nav-2 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #87509C;
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: px;
+    text-align: center;
+
+}
+
+.a {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #87509C;
+    color: white;
+    display: flex;
+    font-size: 17px;
+    display: inline-block;
+    text-align: center;
+}
+
+.a:hover {
+    background-color: #643A79;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.line {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #14A58C;
+    margin: auto;
+    width: 4%;
+    border: 4px solid #14A58C;
+    padding: 0px;
+    border-bottom: #17C2A4;
+    border-right: #17C2A4;
+    border-left: #17C2A4;
+}
+
+.icon-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.now {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E7F1F8;
+
+    text-align: center;
+
+}
+
+.now-1 {
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+    background-color: black;
+}
+
+
+.icon-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-2-b {
+    margin: 28px;
+}
+
+.list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFDD99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+.listt {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFDD99;
+    background-color: #EBC985;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+}
+
+.listt:hover {
+    background-color: white;
+
+}
+
+.icon-3 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    text-align: center;
+}
+
+.icon-4 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+
+
+}
+
+.noww {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #D74680;
+
+    text-align: center;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.now-2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: black;
+}
+
+.now-3 {
+    padding-top: 40px;
+}
+
+.form {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #D74680;
+
+    text-align: center;
+
+
+    justify-content: center;
+    align-items: center;
+    background-color: #3C5499;
+
+}
+
+.linee {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    width: 4%;
+    border: 4px solid black;
+    padding: 0px;
+    border-bottom: black;
+    border-right: black;
+    border-left: black;
+}
+
+#input {
+    background-color: #273A71;
+    border-color: #273A71;
+    width: 395px;
+    height: 50px;
+    color: white;
+    font-size: 22px;
+}
+
+#text {
+    background-color: #273A71;
+    border-color: #273A71;
+    width: 800px;
+    height: 200px;
+    color: white;
+    font-size: 22px;
+}
+
+#submit {
+    background-color: #30BAE7;
+    border-color: #30BAE7;
+    width: 180px;
+    height: 50px;
+    color: #F4FCFD;
+    font-size: 18px;
+}
+
+.footer {
+
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #344B8E;
+
+    background-color: #344B8E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.c a {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #344B8E;
+    color: white;
+    text-decoration: none;
+
+    font-size: 20px;
+
+}
+
+.c a:hover {
+    background-color: #30BDE9;
+
+}
